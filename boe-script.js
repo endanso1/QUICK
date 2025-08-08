@@ -1105,6 +1105,14 @@ const boeData = {
     amount: "1,219.46 GHS",
     pdfDate: "08/07/2025 16:12:38",
   },
+  50725408759: {
+    billNo: "AFO1-G-40725408759-01",
+    boe: "40725408759",
+    tin: "U2507080290",
+    payerName: "DANIEL ADADEY",
+    amount: "89,219.46 GHS",
+    pdfDate: "08/07/2025 16:12:38",
+  },
 };
 
 // Function to get query parameter from URL
