@@ -1236,7 +1236,61 @@ const assessedData = {
   41025632639: {
     boe_no: "41025632639",
     status: "Assessed",
-    pdf_date: "03/10/2025 18:16:32",
+    pdf_date: "10/10/2025 16:04:58",
+    amount: "4,375.74 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  41025650326: {
+    boe_no: "41025650326",
+    status: "Assessed",
+    pdf_date: "10/10/2025 16:04:58",
+    amount: "4,375.74 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  41025650398: {
+    boe_no: "41025650398",
+    status: "Assessed",
+    pdf_date: "10/10/2025 17:31:22",
+    amount: "4,375.74 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  41025650311: {
+    boe_no: "41025650311",
+    status: "Assessed",
+    pdf_date: "10/10/2025 17:35:23",
+    amount: "4,005.39 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  41025650360: {
+    boe_no: "41025650360",
+    status: "Assessed",
+    pdf_date: "10/10/2025 16:38:04",
+    amount: "4,005.39 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+  41025650383: {
+    boe_no: "41025650383",
+    status: "Assessed",
+    pdf_date: "10/10/2025 17:01:52",
+    amount: "4,291.84 GHS",
+    watermark:
+      "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
+    tracking: "Declaration Tracking",
+  },
+ 41025650345: {
+    boe_no: "41025650345",
+    status: "Assessed",
+    pdf_date: "10/10/2025 16:16:02",
     amount: "4,291.84 GHS",
     watermark:
       "This is a Customs Electronically Validated Entry Customs Assessment accepted by Declarant",
